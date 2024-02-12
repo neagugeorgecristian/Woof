@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="loading">Loading</string>
+    <string name="dog_photo">Dog photo</string>
+    <string name="dog_breeds">Dog Breeds</string>
+    <string name="dogs_from_breed">Dogs from selected breed</string>
+    <string name="favorites">Favorites</string>
+    <string name="back_button">Back</string>
+    <string name="connection_error_text">Connection Error Image</string>
+</resources>
